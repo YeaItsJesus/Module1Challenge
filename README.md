@@ -1,5 +1,5 @@
 # Module1Challenge
-Adding Semantic Elements
+
 In this Challenge I learned a lot, it helped me develop the necessary skills to add Semantic Elements to the starter code.
 I ended up getting a way better understanding by not understanding it at first.
 Every doubt I had would lead me to finding the answer and while finding that answer I ended up learning a lot more in the process.
