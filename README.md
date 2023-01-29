@@ -8,3 +8,5 @@ I learned how the HTML file relates to the CSS file.
 Initially I somewhat understood the concept but it was not until I practiced and worked on the code that I got a way better comprehension on the matter.
 
 ![Screenshot](https://user-images.githubusercontent.com/122085651/215297574-a4e0a98f-9cf8-4c05-a086-93dd147e5d58.png "Screenshot")
+
+I also learned how to add a screenshot to my ReadMe file!
