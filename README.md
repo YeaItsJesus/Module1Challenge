@@ -6,3 +6,5 @@ Every doubt I had would lead me to finding the answer and while finding that ans
 So I can now look at every error as a pathway to more understanding on the subject overall. 
 I learned how the HTML file relates to the CSS file.
 Initially I somewhat understood the concept but it was not until I practiced and worked on the code that I got a way better comprehension on the matter.
+
+![Screenshot](https://user-images.githubusercontent.com/122085651/215297574-a4e0a98f-9cf8-4c05-a086-93dd147e5d58.png "Screenshot")
